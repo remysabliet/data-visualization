@@ -1,0 +1,15 @@
+.index {
+  text-align: left;
+  margin: 16px;
+  ul {
+    list-style-type: none;
+    li {
+      font-size: 14px;
+
+      &:hover{
+        color:orange;
+        cursor: pointer;
+      }
+    }
+  }
+}
